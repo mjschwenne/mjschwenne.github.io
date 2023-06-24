@@ -23,10 +23,6 @@ showWordCount = false
 
 ## Directions {#directions}
 
-{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
-This dish has flavor!
-{{< /alert >}}
-
 1.  Combine chicken garlic, olive oil, adobo sauce and seasoning in a large bowl
     (or ziplock bag), cover with plastic wrap. Refrigerate for 30 minutes or up
     to 2 days.
