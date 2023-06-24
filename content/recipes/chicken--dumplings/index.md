@@ -1,0 +1,56 @@
++++
+title = "Chicken & Dumplings"
+author = ["Matt Schwennesen"]
+tags = ["recipes"]
+draft = false
+showDate = false
+showReadingTime = false
+showWordCount = false
++++
+
+## Ingredients {#ingredients}
+
+-   4 tsp baking powder
+-   4 tsp butter
+-   6 chicken breasts
+-   1-3/4 cups chicken stock
+-   2 ribs chopped celery
+-   1-1/2 cups chopped onion
+-   3 diced carrots
+-   1 egg
+-   2-1/2 cups flour
+-   1/2 cups heavy cream
+-   1 cup milk
+-   some pam
+-   1 tsp pepper
+-   some rosemary
+-   3 tsp salt
+-   1/2 tsp thyme
+
+
+## Directions {#directions}
+
+1.  Season chicken breasts with salt and pepper. Then cut the chicken into
+    strips.
+2.  Melt butter in a large pot and cook the chicken about 5 minutes per side
+    until golden.
+3.  Remove from pan and set aside. To the same pot, add chopped onion and cook
+    until tender, about 5 minutes.
+4.  Add flour and cook for 1 minute. Temperature here is critical. If it is too
+    hot the flour will burn and ruin the whole dish.
+5.  Whisk in the chicken stock and bring to a boil, then add diced carrots,
+    chopped celery, thyme, salt and pepper.
+6.  Return the chicken to the pot. Reudce to a simmer and cover with lid. Cook on
+    low for 25 minutes.
+7.  Add heavy cream and dumpling dough (this recipe is a double batch).
+8.  In a 1 cup measure, break an egg and fill the rest of the cup with milk.
+9.  Beat well and stir into the dry ingredients, flour, baking powder, salt. The
+    dough will be incredibly sticky so apply pam to your hands to work with the
+    dough.
+10. Add rosemary to the dumpling dough. Other herbs can be added at your
+    discretion.
+11. Form the dough into balls with an ice cream scoop and drop directly on top
+    of the chicken base. Make sure each dumpling is in contact with the sauce.
+12. Put a clear pie plate over the pot and cook for another 15 minutes. Then
+    check that the dumplings are cooked using a knife until the dough comes out
+    clean.
