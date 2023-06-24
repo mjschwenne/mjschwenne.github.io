@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://schwennesen.org/"
+baseURL = "https://mjschwenne.github.io/schwennesen.org/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
