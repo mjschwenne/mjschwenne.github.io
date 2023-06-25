@@ -16,7 +16,7 @@ title = "Matt's Musings"
  [author]
    name = "Matt Schwennesen"
    image = "img/portrait_square.jpg"
-   headline = "Inspirational quote here!"
+   headline = "\"He had a suspicion of plausible answers; they were so often wrong.\" -- Arthur C. Clarke"
    bio = "Ph.D. Student and Tabletop Gaming Enthusiast"
    links = [
      { email = "mailto:mjschwenne@gmail.com" },

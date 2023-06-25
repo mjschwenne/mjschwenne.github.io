@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 
-# mainSections = ["section1", "section2"]
+# mainSections = ["ttrpg/great-basin/"]
 # robots = ""
 
 disableImageOptimization = true
@@ -37,7 +37,7 @@ smartTOCHideUnfocusedChildren = true
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
-  showRecent = true
+  showRecent = false
   showRecentItems = 6
   showMoreLink = false
   showMoreLinkDest = "/posts"
