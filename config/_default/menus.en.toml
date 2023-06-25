@@ -12,7 +12,6 @@
 
 [[main]]
   name = "Blog"
-  pageRef = "posts"
   weight = 10
 
 [[main]]
@@ -32,9 +31,19 @@
   url = "http://foundry.schwennesen.org/"
 
 [[main]]
+  name = "Great Basin"
+  parent = "TTRPG"
+  pageRef = "ttrpg/great-basin"
+
+[[main]]
   name = "Recipes"
   pageRef = "recipes"
   weight = 40
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 50
 
 #[[main]]
 #  name = "example sub-menu 2"
