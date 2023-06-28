@@ -38,10 +38,10 @@ wounded solider and adventurers all over the Great Basin. Realizing that this
 organization has strong ties to the Eichen, the group decides to fetch Zorro for
 the conversation. Upon returning to the Forum building, Oisin is able to cast
 [Red Hand of the Killer](https://aonprd.com/SpellDisplay.aspx?ItemName=Red%20Hand%20of%20the%20Killer) using the body of Bur Harcosa and dye the right hand of
-whomever hastened his death right. What follows is a search of the Forum
+whomever hastened his death red. What follows is a search of the Forum
 building where you inspect the right hands of anybody you think might be
 involved with Harcosa's death. However, you don't find anything more than one
-false positive where a working in the print shop was working with red ink.
+false positive where a worker in the print shop was working with red ink.
 
 After the search, the entire Task Force goes to the address listed on the
 research paper to talk to Dr. Drache. The secretary goes upstairs to find her,
@@ -69,5 +69,5 @@ lit, you all feel drowsy and soon drift to sleep but only Redfern dreams of a
 dark void with seven elegant chairs illuminated from sourceless drop-lights, a
 figure in black robes with blue runes embroidered onto it.
 
-We now resume in the mind of a dreaming Redfern as you face the figure who
+We now resume in the mind of a dreaming Redfern as you face the figure who might have
 erased Vicious' memories in the inky darkness.
