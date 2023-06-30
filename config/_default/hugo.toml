@@ -12,6 +12,7 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 paginate = 12
 summaryLength = 0
+enableGitInfo = true
 
 buildDrafts = false
 buildFuture = false
