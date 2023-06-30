@@ -4,6 +4,7 @@ showDate = false
 showDateUpdated = true
 showWordCount = false 
 showReadingTime = false 
+heroStyle = "thumbAndBackground"
 +++
 
 ## Background
