@@ -6,6 +6,11 @@ draft = false
 type = "gb-stat"
 +++
 
+{{< alert cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+This stat block is out of date. For the most recent version, please log into
+Foundry.
+{{< /alert >}}
+
 **CR** 9 Lawful Good Medium Humanoid (Human)
 
 **Initiative** +3; **Senses** Perception +16
