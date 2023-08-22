@@ -30,13 +30,14 @@ showWordCount = false
 
 1.  Spray both sides of tortillas with pam and fry until golden brown in a
     skillet on each side. Then set aside.
-2.  Add a drizzle of oil to a pan over medium heat.
-3.  Add diced onion, diced jalapeño and minced garlic. Cook for 8 minutes.
-4.  Add cumin, salt and pepper. Cook for 30 seconds.
-5.  Add drained and rinsed black beans and chicken stock.
-6.  Bring to a boil and cook until most of the liquid has evaporated, about 11
+2.  Preheat oven to 375 degrees.
+3.  Add a drizzle of oil to a pan over medium heat.
+4.  Add diced onion, diced jalapeño and minced garlic. Cook for 8 minutes.
+5.  Add cumin, salt and pepper. Cook for 30 seconds.
+6.  Add drained and rinsed black beans and chicken stock.
+7.  Bring to a boil and cook until most of the liquid has evaporated, about 11
     minutes.
-7.  Add frozen corn and stir.
-8.  Layer filling between tortillas and shredded cheddar, then top with
+8.  Add frozen corn and stir.
+9.  Layer filling between tortillas and shredded cheddar, then top with
     scallions.
-9.  Back for 25 minutes until melted.
+10. Back for 25 minutes until melted.
