@@ -10,21 +10,32 @@ showWordCount = false
 
 ## Ingredients {#ingredients}
 
--   1 tsp basil
+
+### Sauce {#sauce}
+
 -   1 pound ground turkey
--   minced garlic
 -   3/4 cups onion
--   1-1/2 tsp oregano
--   1 box oven ready lasagna noodles
--   1/2 cups parmesan
--   3 tbsp parsley
+-   minced garlic
 -   1 pound petite diced tomatoes
--   1 tsp salt
--   2 cups shredded mozzarella
--   24 ounces small curd cottage cheese
--   2 tbsp sugar
 -   15 ounces tomato sauce
--   16 ounces mozzarella cheese
+-   2 tbsp parsley
+-   1 tsp salt
+-   2 tbsp sugar
+-   1 tsp basil
+
+
+### Cheese Mixture {#cheese-mixture}
+
+-   24 ounces small curd cottage cheese
+-   1/2 cups parmesan
+-   1 tbsp parsley
+-   1-1/2 tsp oregano
+
+
+### Assembly Ingredients {#assembly-ingredients}
+
+-   2 cups mozzarella cheese
+-   1 box oven ready lasagna noodles
 
 
 ## Directions {#directions}
