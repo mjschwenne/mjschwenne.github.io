@@ -6,7 +6,7 @@ draft = false
 type = "gb-doc"
 +++
 
-{{< figure src="/courtyard.png" >}}
+{{< figure src="/courtyard.jpg" >}}
 
 {{< figure src="/forum-level-2.jpg" >}}
 
