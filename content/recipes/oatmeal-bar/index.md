@@ -10,9 +10,9 @@ showWordCount = false
 
 ## Ingredients {#ingredients}
 
--   3/4 stick butter, cut into small pieces
--   1/2 cup flour
--   1/2 cup quick oats
+-   1-3/4 stick butter, cut into small pieces
+-   1-1/2 cup flour
+-   1-1/2 cup quick oats
 -   1 cup packed brown sugar
 -   1 tsp baking powder
 -   1/2 tsp salt
