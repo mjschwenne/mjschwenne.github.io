@@ -11,7 +11,7 @@ showWordCount = false
 ## Ingredients {#ingredients}
 
 
-### Chicken Base {#chicken-base}
+### Chicken Base Ingredients {#chicken-base-ingredients}
 
 -   8 tbs butter
 -   6 chicken breasts
@@ -26,7 +26,7 @@ showWordCount = false
 -   1/2 tsp thyme
 
 
-### Dumplings {#dumplings}
+### Dumpling Ingredients {#dumpling-ingredients}
 
 -   2 cups flour
 -   2 cups milk
