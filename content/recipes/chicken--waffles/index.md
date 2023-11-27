@@ -10,19 +10,35 @@ showWordCount = false
 
 ## Ingredients {#ingredients}
 
--   Bisquik
--   black pepper
+
+### Chicken Marinade {#chicken-marinade}
+
+-   5-6 chicken breasts
 -   1-1/2 cups buttermilk
--   cayenne pepper
--   5 chicken
--   6 boneless breasts
--   1/2 cups cornmeal
--   1-1/2 cups flour
 -   2 tbsp hot sauce
--   oil
--   old bay
--   1 tsp paprika
+-   black pepper
 -   salt
+
+
+### Breading {#breading}
+
+-   1-1/2 cups flour
+-   1/2 cups cornmeal
+-   1 tsp paprika
+-   cayenne pepper
+-   black pepper
+-   salt
+
+
+### Frying {#frying}
+
+-   oil
+
+
+### Waffles {#waffles}
+
+-   Bisquik
+-   old bay
 
 
 ## Directions {#directions}
