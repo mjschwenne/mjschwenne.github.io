@@ -28,7 +28,7 @@ time period include:
 
 -   Stopping a plot by Janus Brutus to take over the Empire of Xylte. As it turns
     out, Silvius Albina (the elderly delegate from Xylte who was racist against
-    Oisin) was not **totally** senile as he was under some powerful hexes cast by
+    Oisin) was not *totally* senile as he was under some powerful hexes cast by
     Janus. She was planning to create a hostile military junta before expanding
     and conquering the Commune of Atrxous.
 -   Meru learns that Niwa Sura, leader of the Keburipemi Syndicate is planing to
