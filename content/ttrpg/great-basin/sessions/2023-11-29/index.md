@@ -6,12 +6,10 @@ draft = false
 type = "gb-log"
 +++
 
-{{< alert >}}
+{{< alert icon="triangle-exclamation" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 This session includes information for the November 15th and November 8th
 sessions, which compose a three session boss fight.
 {{< /alert >}}
-
-
 
 When we last ventured to the Great Basin...
 
@@ -163,4 +161,6 @@ The only survivors of such a mighty blast being:
 With the Koncord of Kieros in shambles, it is now on the few surviving members of
 the Task Force to help rebuild the alliance of nation-states.
 
-Be sure to read the [Epilogue]({{< relref "/epilogue" >}}) too!
+Be sure to read the Epilogue too!
+
+{{< article link="/ttrpg/great-basin/sessions/2023-12-01">}}
