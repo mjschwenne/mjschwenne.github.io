@@ -6,7 +6,7 @@ draft = false
 type = "gb-log"
 +++
 
-{{< alert icon="triangle-exclamation" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+{{< alert icon="triangle-exclamation" cardColor="#e63946" iconColor="#f1faee" textColor="#f1faee" >}}
 This session includes information for the November 15th and November 8th
 sessions, which compose a three session boss fight.
 {{< /alert >}}
@@ -163,4 +163,4 @@ the Task Force to help rebuild the alliance of nation-states.
 
 Be sure to read the Epilogue too!
 
-{{< article link="/ttrpg/great-basin/sessions/2023-12-01">}}
+{{< article link="/ttrpg/great-basin/sessions/2023-12-01/">}}
