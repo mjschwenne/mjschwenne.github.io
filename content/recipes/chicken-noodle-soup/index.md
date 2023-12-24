@@ -1,5 +1,5 @@
 +++
-title = "Chicken Noodle Soup"
+title = "Dad's Chicken Noodle Soup"
 author = ["Matt Schwennesen"]
 tags = ["recipes"]
 draft = false
