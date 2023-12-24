@@ -12,7 +12,7 @@ showWordCount = false
 
 -   1 rotisserie chicken
 -   1 package fresh poultry herbs
--   1 medium diced, diced
+-   1 medium onion, diced
 -   1 red bell pepper, julienne cut
 -   3/4 box mini farfalle pasta
 -   4 carrots, diced
