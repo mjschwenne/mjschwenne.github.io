@@ -28,7 +28,7 @@ showWordCount = false
 1.  Prepare the stock pot. With a small amount of vegetable oil saute about 1/2
     of the onion in the bottom of the pot. It should just start to turn brown,
     translucent and soften. Set aside until the chicken is ready. I recommend a
-    past pot to keep chicken off the bottom of the pot.
+    pasta pot to keep chicken off the bottom of the pot.
 2.  Break down the chicken with your hands into about 8 - 12 pieces. Add the
     chicken, as well as any extra chicken skin or jelly in the bag to the pot.
 3.  In the stockpot cover the chicken with water, normally about 3 - 4 quarts.
