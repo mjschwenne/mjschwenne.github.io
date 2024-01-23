@@ -11,10 +11,12 @@ showWordCount = false
 ## Ingredients {#ingredients}
 
 -   1/2 lbs uncured bacon
+-   olive oil
 -   1 large onion, diced
 -   2 cups sliced carrots
 -   4 stalks celery, sliced
 -   2 cloves garlic, mined
+-   4 cups potatoes, peeled and diced
 -   3 cups chicken stock
 -   1 cup/cob of corn
 -   1/2 tsp dried thyme
@@ -32,8 +34,8 @@ showWordCount = false
 1.  Add bacon to instant pot, sauté (level 3-4) and fry until crisp on both
     sides.
 2.  Chop bacon into small pieces and set aside.
-3.  Add olive oil, carrots, celery and garlic to instant pot and sauté. Cook
-    until softened, 8-10 minutes.
+3.  Add olive oil, onions, carrots, celery and garlic to instant pot and
+    sauté. Cook until softened, 8-10 minutes.
 4.  Stir in the chicken stock, potatoes, corn, thyme, 1 tsp salt, 1/4 tsp pepper
     and bay leaves.
 5.  Pressure Cook on High for 7 minutes with Keep Warm off, then perform a quick
