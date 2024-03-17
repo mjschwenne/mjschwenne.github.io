@@ -16,7 +16,7 @@ title = "Matt's Musings"
  [author]
    name = "Matt Schwennesen"
    image = "img/portrait_square.jpg"
-   headline = "\"He had a suspicion of plausible answers; they were so often wrong.\" -- Arthur C. Clarke"
+   # headline = "\"He had a suspicion of plausible answers; they were so often wrong.\" -- Arthur C. Clarke"
    bio = "Ph.D. Student and Tabletop Gaming Enthusiast"
    links = [
      { email = "mailto:mjschwenne@gmail.com" },
@@ -39,7 +39,7 @@ title = "Matt's Musings"
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
+    { linkedin = "https://www.linkedin.com/in/matt-schwennesen-6b688a251/" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
@@ -61,4 +61,5 @@ title = "Matt's Musings"
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
+     { email = "mailto:schwennesen@cs.wisc.edu" },
    ]
