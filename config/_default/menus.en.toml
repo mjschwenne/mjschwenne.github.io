@@ -44,6 +44,11 @@
   pageRef = "about"
   weight = 50
 
+[[main]]
+  name = "CV"
+  url = "https://www.schwennesen.org/about/cv-schwennesen.pdf"
+  weight = 60
+
 #[[main]]
 #  name = "example sub-menu 2"
 #  parent = "Parent"
