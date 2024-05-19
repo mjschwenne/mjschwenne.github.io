@@ -43,3 +43,66 @@ Education has been an important life-long journey for me and I would like to sha
 Outside of my academia interests, I am passionate about open source software, which I believe is important for a private and secure digital experience.
 In my free time, I enjoy playing tabletop role-playing games such as Dungeons & Dragons or Stars Without Number, watching movies, exploring the outdoors and cooking.
 You can even find a collection of recipes on this website.
+
+## Timeline 
+
+{{< timeline >}}
+
+{{< timelineItem icon="pencil" header="Tutorial - Software Tools for Supporting Network Science" subheader="International School and Conference on Network Science" badge="June 2024" >}}
+I will be presenting a tutorial titled <a href="https://netsci.nascol.net/school"><i>Software Tools for Supporting Network Science</i></a> along with Tamás Nepusz from <code>igraph</code> and Tiago Peixoto from <code>graph-tool</code> at NetSci 2024 in Québec City.
+{{< /timelineItem >}}
+
+{{< timelineItem icon="pencil" header="OPLSS@BU" badge="June 2024" >}}
+I will be attending the <a href="https://www.cs.uoregon.edu/research/summerschool/summer24/">2024 Oregon Programming Languages Summer School at Boston University</a> this year. 
+The topic of the conference is Types, Semantics and Applications.
+{{< /timelineItem >}}
+
+{{< timelineItem icon="graduation-cap" header="Began Graduate Studies" subheader="University of Wisconsin, Madison" badge="Sept 2023" >}}
+Pursuing a Ph.D. in Computer Science.
+{{< /timelineItem >}}
+
+{{< timelineItem icon="graduation-cap" header="Graduation" subheader="Michigan Technological University" badge="May 2023" >}}
+Graduated with a B.S. in computer science, minor in mathematical studies.
+{{< /timelineItem >}}
+
+{{< timelineItem icon="graduation-cap" header="Lab Instructor" subheader="CS 1121 Introduction to Programming I" badge="Jan 2023 - May 2023" >}}
+Worked with Sarah Larkin to teach CS 1121 Introduction to Programming I. 
+This course is an introductory Java programming course covering objects, loops, methods, code design, documentation and debugging programs. 
+My responsibilities included running a weekly lab assignment, grading, holding office hours and proctoring exams.
+{{< /timelineItem >}}
+
+{{< timelineItem icon="graduation-cap" header="Undergraduate TA" subheader="CS 3411 Systems Programming" badge="Aug 2022 - May 2023" >}}
+Worked with Dr. Soner Onder (Fall 2022) and Dr. Jean Mayo (Spring 2023) to teach CS 3411 Systems Programming. 
+This course includes file I/O using system calls, process creation and management, linking and libraries, interprocess communication and socket programming.
+My responsibilities included grading, holding office hours, proctoring exams and developing automatic graders.
+{{< /timelineItem >}}
+
+{{< timelineItem icon="code" header="Research Experience for Undergraduates" subheader="Marquette University" badge="May 2022 - Aug 2022">}}
+Worked on finding the approximate nearest neighbors of polygons using locality sensitive hashing. 
+The work resulted in a multi-threaded C++ system using the developed techniques. 
+{{< /timelineItem >}}
+
+{{< timelineItem icon="code" header="Google Summer of Code" badge="May 2021 - Aug 2021" >}}
+Worked with NetworkX implementing the Asadpour et al. algorithm to approximate the asymmetric traveling salesperson problem. 
+For more information, see 
+<ul>
+  <li><a href="https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.approximation.traveling_salesman.asadpour_atsp.html">NetworkX documentation</a></li>
+  <li><a href="https://blog.scientific-python.org/tags/traveling-salesman-problem/">Google Summer of Code Blog Series</a></li>
+  <li><a href="https://pubsonline.informs.org/doi/abs/10.1287/opre.2017.1603">Original Paper by Asadpour et al.</a></li>
+</ul>
+{{< /timelineItem >}}
+
+{{< timelineItem icon="code" header="Learning Center Coach" subheader="College of Computing - Michigan Technological University" badge="Jan 2021 - Dec 2023" >}}
+Help students completing assignments for beginning and intermediate classes at Michigan Technological University, on topics including 
+<ul>
+  <li>Data Structures</li>
+  <li>MIPS and C programs</li>
+  <li>Introductory Java programs</li>
+</ul>
+{{< /timelineItem >}}
+
+{{< timelineItem icon="graduation-cap" header="Michigan Technological University" badge="Aug 2019" >}}
+Began courses at Michigan Technological University pursuing a degree in computer science.
+{{< /timelineItem >}}
+
+{{< /timeline >}}
