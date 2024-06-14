@@ -16,8 +16,7 @@ While at Michigan Tech, I served as a Learning Center Coach for four semesters, 
 During the summer of 2021, I participated in the Google Summer of Code by working with [NetworkX](https://networkx.org/) on implementing an Asymmetric Traveling Salesperson Problem approximation algorithm.
 Blog posts from that project are available on the [Scientific Python blog](https://blog.scientific-python.org/tags/traveling-salesman-problem/).
 The next summer, I was part of a Research Experiences for Undergraduates (REU) program funded through the National Science Foundation.
-Working with [Dr. Satish Puri](https://www.linkedin.com/in/satish-puri-a994a71a/), I developed an multi-threaded C++ system for finding the approximate nearest neighbor for polygons.
-For more information, check out the [poster](reu-poster-schwennesen.pdf) or [report](reu-report-schwennesen.pdf) from the project.
+Working with [Dr. Satish Puri](https://www.linkedin.com/in/satish-puri-a994a71a/), I developed a multi-threaded C++ system for finding the approximate nearest neighbor for polygons.
 Ultimately we decided not to pursue publication for the project since the the C++ implementation did not meet our performance targets.
 
 For more information, please see my [curriculum vitae](cv-schwennesen.pdf) or [résumé](resume-schwennesen.pdf).
