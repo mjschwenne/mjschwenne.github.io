@@ -9,50 +9,76 @@ heroStyle = "thumbAndBackground"
 
 ## Background
 
-I am currently a first year Ph.D student at the University of Wisconsin, Madison studying computer science.
-Before moving to Madison, I got my undergraduate degree in Computer Science at Michigan Technological University, graduating in December 2022.
-Currently I am a head teaching assistant in CS 400, Programming III this semester after being a standard teaching assistant last semester.
-While at Michigan Tech, I served as a Learning Center Coach for four semesters, Teaching Assistant for two semesters, and a Lab Instructor for one semester.
-During the summer of 2021, I participated in the Google Summer of Code by working with [NetworkX](https://networkx.org/) on implementing an Asymmetric Traveling Salesperson Problem approximation algorithm.
-Blog posts from that project are available on the [Scientific Python blog](https://blog.scientific-python.org/tags/traveling-salesman-problem/).
-The next summer, I was part of a Research Experiences for Undergraduates (REU) program funded through the National Science Foundation.
-Working with [Dr. Satish Puri](https://www.linkedin.com/in/satish-puri-a994a71a/), I developed a multi-threaded C++ system for finding the approximate nearest neighbor for polygons.
-Ultimately we decided not to pursue publication for the project since the the C++ implementation did not meet our performance targets.
+I am currently a second year Ph.D student at the University of Wisconsin,
+Madison studying computer science. Before moving to Madison, I got my
+undergraduate degree in Computer Science at Michigan Technological University,
+graduating in December 2022. Currently I am a head teaching assistant in CS 400,
+Programming III this semester after being a standard teaching assistant last
+fall. While at Michigan Tech, I served as a Learning Center Coach for four
+semesters, Teaching Assistant for two semesters, and a Lab Instructor for one
+semester. During the summer of 2021, I participated in the Google Summer of Code
+by working with [NetworkX](https://networkx.org/) on implementing an Asymmetric
+Traveling Salesperson Problem approximation algorithm. Blog posts from that
+project are available on the [Scientific Python
+blog](https://blog.scientific-python.org/tags/traveling-salesman-problem/). The
+next summer, I was part of a Research Experiences for Undergraduates (REU)
+program funded through the National Science Foundation. Working with [Dr. Satish
+Puri](https://www.linkedin.com/in/satish-puri-a994a71a/), I developed a
+multi-threaded C++ system for finding the approximate nearest neighbor for
+polygons.
 
-For more information, please see my [curriculum vitae](cv-schwennesen.pdf) or [résumé](resume-schwennesen.pdf).
+For more information, please see my [curriculum vitae](cv-schwennesen.pdf) or
+[résumé](resume-schwennesen.pdf).
 
 ## Research Interests
 
-My pervious summer research projects both involved approximation algorithms, which is still a topic of interest for me.
-However, recently I've been exploring programming languages as a research area.
-In particular, through my experiences as a teaching assistant and coach for computer science students, I've developing an interest in how we can use methods from programming languages research to help students write better code and assess the behavior of a peice of code in a safe way.
-Given those two interests, I am eager to learn more about static analysis techniques and program verification as ways to pursue this goal.
-Since several program analysis goals are NP-Complete or even undeciable, approximation will likely still play a role in this work.
-Through my work with NetworkX and several graph theory classes at Michigan Tech, graph theory is another passion of mine and I would like to explore how graphs and particularly trees can be used in these problems.
+My interests have moved solidly into programming languages, and more
+specifically program verification. Through my experiences as a teaching
+assistant and coach for computer science students, I've developing an interest
+in how we can use methods from programming languages research to help students
+write better code and assess the behavior of a piece of code in a safe way.
+Recently I've been learning to use the `coq` proof assistant, which is a
+fabulous piece of software. My venture into the field of programming languages
+has been extremely rewarding, blending all of the aspects I love about theory
+with practical applications about how we can reason about the behavior of
+programs. Right now I'm working on a project to generate verified code for
+marshaling and unmarshaling messages for `go` code. 
+
+Through my work with NetworkX and several graph theory classes at Michigan Tech,
+graph theory is another passion of mine and I would like to explore how graphs
+and particularly trees can be used in these problems.
 
 ## Moving Forward
 
-Right now, I'm looking for connecting with the professors at UW-Madison to find potential advisors and join a research group.
-After getting a Ph.D, I'd like to stay in academia and become a professor myself.
-While working at Michigan Tech in a variety of student-facing roles, I developed a passion for teaching and sharing my knowledge with other students.
-Education has been an important life-long journey for me and I would like to share that with other students.
+Right now, I'm looking for connecting with the professors at UW-Madison to find
+potential advisors and join a research group. After getting a Ph.D, I'd like to
+stay in academia and become a professor myself. While working at Michigan Tech
+in a variety of student-facing roles, I developed a passion for teaching and
+sharing my knowledge with other students. Education has been an important
+life-long journey for me and I would like to share that with other students.
 
 ## Other Interests
 
-Outside of my academia interests, I am passionate about open source software, which I believe is important for a private and secure digital experience.
-In my free time, I enjoy playing tabletop role-playing games such as Dungeons & Dragons or Stars Without Number, watching movies, exploring the outdoors and cooking.
-You can even find a collection of recipes on this website.
+Outside of my academia interests, I am passionate about open source software,
+which I believe is important for a private and secure digital experience. In my
+free time, I enjoy playing tabletop role-playing games such as Dungeons &
+Dragons or Stars Without Number, watching movies, exploring the outdoors and
+cooking. You can even find a collection of recipes on this website.
 
 ## Timeline 
 
 {{< timeline >}}
 
+{{<timelineItem icon="code" header="NetworkX - New Graph Visualization API" subheader="Indpendent Contract" badge="Jun 2024 - Aug 2024">}}
+Rewrote the existing visualization API to be agnostic to the visualization tool (in this case <code>matplotlib</code>), provide more flexibility and the potential for visualization dispatching in the future. 
+{{</timelineItem>}}
+
 {{< timelineItem icon="pencil" header="Tutorial - Software Tools for Supporting Network Science" subheader="International School and Conference on Network Science" badge="June 2024" >}}
-I will be presenting a tutorial titled <a href="https://netsci.nascol.net/school"><i>Software Tools for Supporting Network Science</i></a> along with Tamás Nepusz from <code>igraph</code> and Tiago Peixoto from <code>graph-tool</code> at NetSci 2024 in Québec City.
+I presented a tutorial titled <a href="https://netsci.nascol.net/school"><i>Software Tools for Supporting Network Science</i></a> along with Tamás Nepusz from <code>igraph</code> and Tiago Peixoto from <code>graph-tool</code> at NetSci 2024 in Québec City.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="pencil" header="OPLSS@BU" badge="June 2024" >}}
-I will be attending the <a href="https://www.cs.uoregon.edu/research/summerschool/summer24/">2024 Oregon Programming Languages Summer School at Boston University</a> this year. 
+Attended the <a href="https://www.cs.uoregon.edu/research/summerschool/summer24/">2024 Oregon Programming Languages Summer School at Boston University</a>. 
 The topic of the conference is Types, Semantics and Applications.
 {{< /timelineItem >}}
 
