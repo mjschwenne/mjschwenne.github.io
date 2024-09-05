@@ -11,9 +11,10 @@ running for just over two years!
 
 Now that the game is officially over, I can divulge some secretes and resolve
 the long-term plot points. As a reminder, the [last session]({{< relref
-"/2023-11-29" >}}) saw the death most of the task force, with only Gwen and
-Meru surviving. Meru had to bargain with Kieros for protection, agreeing to
-become a mouthpiece for her and advance her will across the basin.
+"/ttrpg/great-basin/sessions/2023-11-29" >}}) saw the death most of the task
+force, with only Gwen and Meru surviving. Meru had to bargain with Kieros for
+protection, agreeing to become a mouthpiece for her and advance her will across
+the basin.
 
 As such, the charismatic oracle Meru becomes _the_ leading political figure in the
 aftermath of the destruction of the League Against Koncord Eminence. It takes
