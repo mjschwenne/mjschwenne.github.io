@@ -52,7 +52,7 @@
     {{ $cardView := .Params.cardView | default (.Site.Params.list.cardView | default false) }}
     {{ $cardViewScreenWidth := .Site.Params.list.cardViewScreenWidth | default false }}
     {{ $groupByYear := .Params.groupByYear | default ($.Site.Params.list.groupByYear | default false) }}
-	{{ $paginateNum := default ((.Param "paginate") | default 10) }}
+	{{ $paginateNum := default ((.Param "pagination.pagerSize") | default 10) }}
 
     {{ if not $cardView }}
 
