@@ -29,10 +29,10 @@
   parent = "TTRPG"
   url = "http://foundry.schwennesen.org/"
 
-# [[main]]
-#   name = "Great Basin"
-#   parent = "TTRPG"
-#   pageRef = "ttrpg/great-basin"
+[[main]]
+  name = "Great Basin"
+  parent = "TTRPG"
+  pageRef = "ttrpg/great-basin"
 
 [[main]]
   name = "Recipes"
