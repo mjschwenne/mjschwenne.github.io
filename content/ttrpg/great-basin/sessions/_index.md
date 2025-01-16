@@ -1,4 +1,4 @@
 +++
 title = "Great Basin Session Logs"
-paginate = 12
+pagination.pagerSize = 12
 +++

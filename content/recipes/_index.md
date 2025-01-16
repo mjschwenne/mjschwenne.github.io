@@ -2,7 +2,7 @@
 title = "Recipes"
 layout = "alphalist"
 groupByYear = false
-paginate = 200
+pagination.pagerSize = 200
 +++
 
 This is a collection of recipes from various sources. 
