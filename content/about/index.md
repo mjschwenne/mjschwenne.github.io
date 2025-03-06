@@ -10,54 +10,53 @@ heroStyle = "thumbAndBackground"
 ## Background
 
 I am currently a second year Ph.D student at the University of Wisconsin,
-Madison studying computer science. Before moving to Madison, I got my
-undergraduate degree in Computer Science at Michigan Technological University,
-graduating in December 2022. Currently I am a head teaching assistant in CS 400,
-Programming III this semester after being a standard teaching assistant last
-fall. While at Michigan Tech, I served as a Learning Center Coach for four
-semesters, Teaching Assistant for two semesters, and a Lab Instructor for one
-semester. During the summer of 2021, I participated in the Google Summer of Code
-by working with [NetworkX](https://networkx.org/) on implementing an Asymmetric
-Traveling Salesperson Problem approximation algorithm. Blog posts from that
-project are available on the [Scientific Python
+Madison studying computer science. I'm working on formal verification of
+software as part of the [madPL](https://madpl.cs.wisc.edu/) group with my
+advisor [Tej Chajed](https://www.chajed.io/). 
+
+Before moving to Madison, I got my undergraduate degree in Computer Science at
+Michigan Technological University, graduating in December 2022. Previously, I
+was a head teaching assistant in CS 400, Programming III after being a standard
+teaching assistant my first semester in Wisconsin. While at Michigan Tech, I
+served as a Learning Center Coach for four semesters, Teaching Assistant for two
+semesters, and a Lab Instructor for one semester. During the summer of 2021, I
+participated in the Google Summer of Code by working with
+[NetworkX](https://networkx.org/) on implementing an Asymmetric Traveling
+Salesperson Problem approximation algorithm. Blog posts from that project are
+available on the [Scientific Python
 blog](https://blog.scientific-python.org/tags/traveling-salesman-problem/). The
 next summer, I was part of a Research Experiences for Undergraduates (REU)
 program funded through the National Science Foundation. Working with [Dr. Satish
 Puri](https://www.linkedin.com/in/satish-puri-a994a71a/), I developed a
 multi-threaded C++ system for finding the approximate nearest neighbor for
-polygons.
+polygons. Last summer, I overhauled the graph visualization API in NetworkX,
+moving to an API design were all information is read off the graph directly.
 
-For more information, please see my [curriculum vitae](cv-schwennesen.pdf) or
-[résumé](resume-schwennesen.pdf).
+For more information, please see my [curriculum vitae](cv-schwennesen.pdf).
 
 ## Research Interests
 
-My interests have moved solidly into programming languages, and more
-specifically program verification. Through my experiences as a teaching
-assistant and coach for computer science students, I've developing an interest
-in how we can use methods from programming languages research to help students
-write better code and assess the behavior of a piece of code in a safe way.
-Recently I've been learning to use the `coq` proof assistant, which is a
-fabulous piece of software. My venture into the field of programming languages
-has been extremely rewarding, blending all of the aspects I love about theory
-with practical applications about how we can reason about the behavior of
-programs. Right now I'm working on a project to generate verified code for
-marshaling and unmarshaling messages for `go` code. 
-
-Through my work with NetworkX and several graph theory classes at Michigan Tech,
-graph theory is another passion of mine and I would like to explore how graphs
-and particularly trees can be used in these problems.
-
-## Moving Forward
-
-Right now, I'm looking for connecting with the professors at UW-Madison to find
-potential advisors and join a research group. After getting a Ph.D, I'd like to
-stay in academia and become a professor myself. While working at Michigan Tech
-in a variety of student-facing roles, I developed a passion for teaching and
-sharing my knowledge with other students. Education has been an important
-life-long journey for me and I would like to share that with other students.
+My research interests lay in program verification, roughly speaking how we can
+formally prove that programs behave correctly under all circumstances. My
+current project seeks to reason about software updates, ensuring that a new
+version of the program can successfully interpret persistent state and handle
+interactions with the environment in a compatible way with the old version of
+the program. Before that I worked on
+[`grackle`](https://github.com/mjschwenne/grackle), a program which generated
+validated or proof-instrumented data marshaling and unmarshaling `go`
+code. Though this process, I'm been learning more about proof assistants,
+specifically `coq` (soon be to known as `rocq`). My venture into the field of
+programming languages has been extremely rewarding, blending all of the aspects
+I love about theory with practical applications about how we can reason about
+the behavior of programs.
 
 ## Other Interests
+
+Computer science education is a secondary topic of interest for me. While
+working with students over the last 4 years, I've seen a lot of different
+methods to teach students computer science concepts and how they develop those
+concepts into programs. Often, too much emphasis is placed on the final result
+or program behavior, while ignoring the development progress itself.
 
 Outside of my academia interests, I am passionate about open source software,
 which I believe is important for a private and secure digital experience. In my
