@@ -127,7 +127,7 @@ Ph.D. in Computer Science. {{< /timelineItem >}}
 
 header="Bachelor's Degree" subheader="Michigan Technological University"
 
-badge="May 2023" >}} Graduated with a B.S. in computer science, minor in
+badge="Dec 2022" >}} Graduated with a B.S. in computer science, minor in
 mathematical studies. {{< /timelineItem >}}
 
 {{< timelineItem icon="graduation-cap" header="Lab Instructor"
