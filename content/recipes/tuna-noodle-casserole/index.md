@@ -1,5 +1,5 @@
 +++
-title = "Tuna Noodle Cassarole"
+title = "Tuna Noodle Casserole"
 author = ["Matt Schwennesen"]
 tags = ["recipes"]
 draft = false
