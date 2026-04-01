@@ -71,6 +71,22 @@ can even find a collection of recipes on this website.
 
 {{< timeline >}}
 
+{{< timelineItem icon="graduation-cap" header="Graduate Instructor"
+
+subheader="CS 400 Programming III" badge="Jun 2026">}}
+
+Instructing CS 400 during 2026 summer term at the University of Wisconsin - Madison.
+
+{{</timelineItem>}}
+
+{{< timelineItem icon="pencil" header="Published ShapeToVec"
+
+badge="Dec 2025">}} 
+
+Published <a href="https://ieeexplore.ieee.org/document/11401899">ShapeToVec: Encoding Polygonal Shapes with Extreme Area Variability for Effective Approximate Jaccard Similarity Queries</a>. 
+
+{{</timelineItem>}}
+
 {{< timelineItem icon="graduation-cap" header="Master's Degree"
 
 subheader="University of Wisconsin - Madison" badge="Dec 2025">}}
