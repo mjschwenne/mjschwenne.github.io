@@ -21,25 +21,6 @@
   weight = 20
 
 [[main]]
-  name = "TTRPG"
-  weight = 30
-
-[[main]]
-  name = "Foundry"
-  parent = "TTRPG"
-  url = "http://foundry.schwennesen.org/"
-
-[[main]]
-  name = "Great Basin"
-  parent = "TTRPG"
-  pageRef = "ttrpg/great-basin"
-
-[[main]]
-  name = "Recipes"
-  pageRef = "recipes"
-  weight = 40
-
-[[main]]
   name = "About"
   pageRef = "about"
   weight = 50
@@ -48,46 +29,3 @@
   name = "CV"
   url = "https://www.schwennesen.org/about/cv-schwennesen.pdf"
   weight = 60
-
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
-
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
-
-#[[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
-
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
-
-
-# -- Footer Menu --
-# The footer menu is displayed at the bottom of the page, just before
-# the copyright notice. Configure as per the main menu above.
-
-
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
-
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20

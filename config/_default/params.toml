@@ -12,9 +12,6 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 
-# mainSections = ["ttrpg/great-basin/"]
-# robots = ""
-
 disableImageOptimization = true
 
  defaultBackgroundImage = "img/background.jpg" # used as default for background images
@@ -49,7 +46,7 @@ smartTOCHideUnfocusedChildren = true
    name = "Matt Schwennesen"
    image = "img/portrait_square.jpg"
    # headline = "\"He had a suspicion of plausible answers; they were so often wrong.\" -- Arthur C. Clarke"
-   bio = "Ph.D. Student and Tabletop Gaming Enthusiast"
+   bio = "Ph.D. Student, UW-Madison"
    links = [
      { email = "mailto:mjschwenne@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },

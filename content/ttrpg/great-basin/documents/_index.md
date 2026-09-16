@@ -1,3 +1,0 @@
-+++
-title = "Great Basin Documents"
-+++
