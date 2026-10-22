@@ -90,6 +90,12 @@ Stars Without Number, watching movies, exploring the outdoors and cooking.
 
 {{< timeline >}}
 
+{{< timelineItem icon="pencil" header="Published PolySS" badge="Dec 2026">}}
+
+Published <i>PolySS: A Compact Filter-and-Refine System for Efficient Approximate Polygon Similarity Search</i>.
+
+{{</timelineItem>}}
+
 {{< timelineItem icon="graduation-cap" header="Graduate Instructor"
 
 subheader="CS 400 Programming III" badge="Jun 2026">}}
@@ -103,9 +109,9 @@ Madison.
 
 badge="Dec 2025">}}
 
-Published <a href="https://ieeexplore.ieee.org/document/11401899">ShapeToVec:
+Published <a href="https://ieeexplore.ieee.org/document/11401899"><i>ShapeToVec:
 Encoding Polygonal Shapes with Extreme Area Variability for Effective
-Approximate Jaccard Similarity Queries</a>.
+Approximate Jaccard Similarity Queries</i></a>.
 
 {{</timelineItem>}}
 
